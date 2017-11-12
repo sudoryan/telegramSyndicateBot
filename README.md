@@ -2,13 +2,14 @@
 
 ## Features
 
-### Managers
+Managers
 - Deploys Whitelist and Deal Contracts
 - View Deal information (balances, start/end time, exchange rate, ...)
 - Set deal exchange rate
 - Add/Remove Members to Whitelist Contract 
 - Add funds
-### Investors
+
+Investors
 - View ICO deals
 - View investment balances
 
