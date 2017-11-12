@@ -1,5 +1,17 @@
 # telegramBot
 
+## Features
+
+    Manager
+    - Deploys Whitelist and Deal Contracts
+    - View Deal information (balances, start/end time, exchange rate, ...)
+    - Set deal exchange rate
+    - Add/Remove Members to Whitelist Contract 
+    - Add funds
+    Investor
+    - View ICO deals
+    - View investment balances
+
 ## Deploy Locally
 
 Set up env_vars in .env.json
