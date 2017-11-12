@@ -12,6 +12,7 @@ Managers
 Investors
 - View ICO deals
 - View investment balances
+- Link accounting w/ eth address
 
 ## Deploy Locally
 
